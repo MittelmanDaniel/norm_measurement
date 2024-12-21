@@ -11,4 +11,4 @@ However this is completely EXPLODED because the first token's activation is huge
 
 This happened with sample sizes from 1 all the way to 16 so I assume it was not random chance. 
 
-When removing them the mean is close to 93-ish with significantly smaller variance.
+When removing them the mean is close to 90-ish with significantly smaller variance of 10.
